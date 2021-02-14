@@ -1,0 +1,6 @@
+packages:
+  - package: fivetran/github_source
+    version: 0.2.1
+packages:
+  - package: fivetran/github
+    version: 0.2.0
